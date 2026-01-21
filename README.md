@@ -9,9 +9,7 @@ The goal of this assignment is to practice loading external data using AJAX, man
 ## 🚀 Live Demo
 
 🔗 **GitHub Pages Deployment:**  
-https://YOUR_GITHUB_USERNAME.github.io/airbnb_listings2/
-
-(Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username)
+https://shashankmore20.github.io/self-assessmentShashank/
 
 ---
 
